@@ -4,5 +4,4 @@ def add(num1,num2):
 inpupt1=int (input ('Enter the 1st num: '))
 inpupt2=int (input ('Enter the 2nd num: '))
 
-sum =inpu1+input2
-print('Result:', sum)
+print('Result:', add(input1, input2))
